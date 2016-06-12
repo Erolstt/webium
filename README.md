@@ -6,6 +6,18 @@ Webium is a Page Object pattern implementation library for Python (http://martin
 
 It allows you to extend WebElement class to your custom controls like Link, Button and group them as pages.
 
+Installation
+=======
+
+Requirements
+*	Python 2.7 - http://www.python.org/download/
+*	PyPi (pip) - http://www.pip-installer.org/en/latest/
+
+Installation via PYPI
+
+	pip install webium
+
+
 Main classes are:
 
 - webium.Find
